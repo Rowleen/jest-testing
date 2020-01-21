@@ -1,4 +1,4 @@
-import actions from '../../actions/';
+import actions from '../../actions';
 import ProductMock from '../../__mocks__/ProductMock';
 
 describe('Actions', () => {
